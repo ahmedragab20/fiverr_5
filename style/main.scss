@@ -8,6 +8,10 @@
 @import "./variables";
 // @import "./_reactions";
 // @import "./_reviews";
+html,
+body {
+  overflow-x: hidden;
+}
 
 body {
   background: $bg_color;
